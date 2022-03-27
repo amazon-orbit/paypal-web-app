@@ -95,13 +95,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>amazon-orbit Nexus Release Repository</name>
+	      <name>LandmakTechnology Release Nexus Repository</name>
 	      <url>http://52.60.206.199:8081//repository/paypal-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>amazon-orbit Nexus Snapshot Nexus Repository </name>
+	      <name>LandmakTechnology Snapshot Nexus Repository</name>
 	      <url>http://52.60.206.199:8081/repository/paypal-snapshots/</url>
 	    </snapshotRepository>
 	    
